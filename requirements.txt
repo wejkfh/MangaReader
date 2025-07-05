@@ -1,0 +1,4 @@
+Pillow>=8.0.0
+pyinstaller>=5.0.0
+# opencv-python>=4.5.0  # 可选：用于视频播放功能
+# 如果需要视频播放功能，请运行: pip install opencv-python
